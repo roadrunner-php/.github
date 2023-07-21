@@ -25,7 +25,7 @@
 4. 🔌 [BirdDog](https://github.com/roadrunner-php/birddog): RoadRunner monitoring system. Might be used for monitoring workers, services and Jobs.
 5. 🧱 [http](https://github.com/roadrunner-php/http): PSR7 HTTP Worker client for RoadRunner server.
 6. 📖 [JOBS](https://github.com/roadrunner-php/jobs): RoadRunner Jobs (Queue) SDK. Support `rabbitmq`, `sqs`, `beanstalk`, `kafka`, `boltdb`, `in-memory`, `nats` brokers.
-7. 📖 [gRPC](https://github.com/roadrunner-php/grpc): RoadRunner gRPC PHP SDK.
+7. 🗽 [gRPC](https://github.com/roadrunner-php/grpc): RoadRunner gRPC PHP SDK.
 
 ---
 
