@@ -8,7 +8,7 @@
 <br><br/>
 
 🙋‍ **RoadRunner is a high-performance PHP application server and process manager written in Go and powered with plugins.**   
-🔦 **This repository provides the PHP client SDK for RoadRunner.**
+🔦 **This organization provides the PHP client SDK for RoadRunner.**
 
 # 💬 Join our discord server: [Link](https://discord.gg/spiralphp) 
 
