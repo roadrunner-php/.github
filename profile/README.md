@@ -12,12 +12,16 @@
 
 # 💬 Join our discord server: [Link](https://discord.gg/spiralphp) 
 
+## Home for the issues is here 🐛: [link](https://github.com/roadrunner-php/issues)
+
 <p align="center">
 	<a href="https://roadrunner.dev/"><b>Official Website</b></a> |
 	<a href="https://roadrunner.dev/docs"><b>Documentation</b></a> |
     <a href="https://forum.roadrunner.dev"><b>RoadRunner Forum</b></a> |
     <a href="https://github.com/orgs/roadrunner-server/projects/1"><b>Release Schedule</b></a>
 </p>
+
+
 
 👩‍💻 Useful resources:
 1. 🧙 [Goridge](https://github.com/roadrunner-php/goridge): High-performance PHP-to-Golang IPC/RPC bridge
